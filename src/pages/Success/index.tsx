@@ -26,7 +26,7 @@ export function Success() {
     if (!state) {
       navigate('/')
     }
-  }, [])
+  }, [navigate, state])
 
   if (!state) return <></>
 
