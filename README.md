@@ -11,7 +11,11 @@
 <br></br>
 
 <div align="center">
-  <img alt="project image" title="image" src="img.png" />
+  <img alt="project image" title="image" src="./public/home.png" />
+</div> 
+
+<div align="center">
+  <img alt="project image" title="image cart" src="./public/cart.png" />
 </div> 
 
 <br></br>
