@@ -15,7 +15,7 @@
 </div> 
 
 <div align="center">
-  <img alt="project image" title="image cart" src="./public/template-gif.gif" width="100%"/>
+  <img alt="project image" title="image cart" src="./public/template.gif" width="100%"/>
 </div> 
 
 <br></br>
