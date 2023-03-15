@@ -57,7 +57,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-- [Coffee-Delivery - Figma](https://www.figma.com/file/f68pTeTCicvSlFyux80vY2/Coffee-Delivery-(Copy)?node-id=0%3A1&t=QuXLudL982u895Rn-0)
+- [Coffee-Delivery - Figma](https://www.figma.com/file/ZYjyFhRvDQwWvEwPgnJfmk/Coffee-Delivery-(Copy)?node-id=0%3A1&t=9BkIKZm9sxuSecvv-0)
 
 <br></br>
 
