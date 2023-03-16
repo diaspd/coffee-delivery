@@ -56,7 +56,7 @@ This project was developed with the following technologies:
 </b>
 
 ## 📄 Project
-💰 .
+💰 A project made as a web store to sell coffees.
 
 <br></br>
 
