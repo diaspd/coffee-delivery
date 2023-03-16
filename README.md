@@ -55,6 +55,8 @@ This project was developed with the following technologies:
 - Vitejs
 </b>
 
+</br>
+
 ## 📄 Project
 💰 A project made as a web store to sell coffees.
 
