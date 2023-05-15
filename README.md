@@ -8,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<br></br>
+---
 
 <div align="center">
   <img alt="project image" title="image" src="./public/home.png" />
