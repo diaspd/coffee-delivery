@@ -11,11 +11,11 @@
 ---
 
 <div align="center">
-  <img alt="project image" title="image" src="./public/home.png" />
+  <img alt="project image" title="project image" src="./public/home.png" />
 </div> 
 
 <div align="center">
-  <img alt="project image" title="image cart" src="./public/template.gif" width="100%"/>
+  <img alt="project image" title="project video" src="./public/template.gif" width="100%"/>
 </div> 
 
 <br></br>
