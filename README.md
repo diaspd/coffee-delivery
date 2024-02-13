@@ -2,16 +2,22 @@
   <h1> <img alt="logo image" title="image" src="./src/assets/logo.svg" width="20%" /> </h1>
 </div> 
 
+<h2 align="center">Link to site online: <a href="https://coffee-delivery-diaspd.vercel.app" target="_blank">Coffee Delivery</a> </h2>
+
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<br></br>
+---
 
 <div align="center">
-  <img alt="project image" title="image" src="img.png" />
+  <img alt="project image" title="project image" src="./public/home.png" />
+</div> 
+
+<div align="center">
+  <img alt="project image" title="project video" src="./public/template.gif" width="100%"/>
 </div> 
 
 <br></br>
@@ -37,7 +43,7 @@ $ npm install
 $ npm run dev
 ```
 
-The app will be available on `http://localhost:5173/`
+The app will be available on `http://localhost:5173`
 
 <br></br>
 
@@ -51,8 +57,10 @@ This project was developed with the following technologies:
 - Vitejs
 </b>
 
+</br>
+
 ## 📄 Project
-💰 .
+💰 A project made as a web store to sell coffees, using context, hooks, styled components and more.
 
 <br></br>
 
@@ -61,6 +69,6 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media!<br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
