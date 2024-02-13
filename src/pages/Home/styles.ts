@@ -1,7 +1,22 @@
 import styled from 'styled-components'
 
+export const ContentWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+`
+
 export const Title = styled.h2`
-  margin: 7rem 15rem 0rem 16rem;
+  width: 100rem;
+  margin-left: 20rem;
+  margin-top: 7rem;
+
+  @media (max-width: 1300px) {
+    width: 6rem;
+    margin-left: 0;
+    white-space: nowrap;
+  }
 `
 
 export const CoffeeCardContainer = styled.div`
