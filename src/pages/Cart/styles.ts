@@ -11,6 +11,11 @@ export const Container = styled.div`
     margin-top: -2.5rem;
     margin-bottom: 2rem;
   }
+
+  @media (max-width: 1300px) {
+    flex-direction: column;
+    margin: 12rem 6rem;
+  }
 `
 
 export const SecondContainer = styled.div`
@@ -23,5 +28,10 @@ export const SecondContainer = styled.div`
   h2 {
     margin-top: -3rem;
     margin-bottom: 2rem;
+  }
+
+  @media (max-width: 1300px) {
+    flex-direction: column;
+    margin: 12rem 0;
   }
 `

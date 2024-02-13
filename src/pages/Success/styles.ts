@@ -23,6 +23,11 @@ export const Container = styled.div`
   img {
     margin-top: 7.2rem;
   }
+
+  @media (max-width: 1300px) {
+    flex-direction: column;
+    margin: 12rem 6rem;
+  }
 `
 
 export const Text = styled.p`

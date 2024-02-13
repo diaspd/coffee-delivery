@@ -16,6 +16,16 @@ export const HeaderContainer = styled.div`
 
   img {
     margin-top: 2rem;
+
+    @media (max-width: 1300px) {
+      margin: 0;
+    }
+  }
+
+  @media (max-width: 1300px) {
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem 4rem;
   }
 `
 
@@ -33,6 +43,7 @@ export const Text = styled.p`
   border-radius: 4px;
   background-color: ${(props) => props.theme['purple-200']};
   color: ${(props) => props.theme['purple-700']};
+  white-space: nowrap;
 
   MapPin {
     color: ${(props) => props.theme['purple-500']};
@@ -65,6 +76,11 @@ export const ButtonContainer = styled.button`
 
     color: ${(props) => props.theme.white};
     background-color: ${(props) => props.theme['yellow-700']};
+
+    @media (max-width: 1300px) {
+      top: 1.8rem;
+      right: 3.3rem;
+    }
   }
 
   :hover {

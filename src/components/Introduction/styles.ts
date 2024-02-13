@@ -13,6 +13,11 @@ export const Container = styled.div`
     rgba(160, 3, 157, 0) 100%,
     rgba(0, 212, 255, 1) 100%
   );
+
+  @media (max-width: 1300px) {
+    flex-direction: column;
+    margin: 12rem 4rem;
+  }
 `
 
 export const ContainerInfo = styled.div`
