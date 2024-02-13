@@ -2,8 +2,10 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
   display: flex;
+  justify-content: center;
   margin: 5rem 16rem;
   gap: 4rem;
+  margin-top: 12rem;
 
   h2 {
     margin-top: -2.5rem;

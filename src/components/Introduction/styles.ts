@@ -3,7 +3,8 @@ import styled from 'styled-components'
 export const Container = styled.div`
   display: flex;
   margin: 4rem 16rem;
-  justify-content: space-around;
+  margin-top: 15rem;
+  justify-content: center;
   border-radius: 8px;
   background: rgb(201, 73, 255);
   background: linear-gradient(
@@ -19,6 +20,7 @@ export const ContainerInfo = styled.div`
   align-items: flex-start;
   flex-direction: column;
   margin: 0 6rem 1rem 0;
+  max-width: 120rem;
 
   h1 {
     font-weight: bold;

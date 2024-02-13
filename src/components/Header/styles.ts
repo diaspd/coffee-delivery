@@ -2,8 +2,17 @@ import styled from 'styled-components'
 
 export const HeaderContainer = styled.div`
   display: flex;
-  margin: 1rem 16rem;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 16rem;
+  gap: 30rem;
+
+  background-color: ${(props) => props.theme['gray-100']};
+
+  top: 0;
+
+  position: fixed;
+  width: 100vw;
 
   img {
     margin-top: 2rem;
@@ -11,6 +20,7 @@ export const HeaderContainer = styled.div`
 `
 
 export const ActionsContainer = styled.div`
+  margin-left: auto;
   display: flex;
   justify-content: space-evenly;
 `

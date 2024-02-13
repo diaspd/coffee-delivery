@@ -3,8 +3,10 @@ import styled from 'styled-components'
 export const Container = styled.div`
   display: flex;
   margin: 1rem 16rem;
-  justify-content: space-between;
-  margin-top: 5rem;
+  justify-content: center;
+  gap: 10rem;
+
+  margin-top: 10rem;
 
   h1 {
     color: ${(props) => props.theme['yellow-700']};

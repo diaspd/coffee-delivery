@@ -8,13 +8,17 @@ import {
   Text,
 } from './styles'
 
+import Logo from '../../assets/logo.svg'
+
 export function Header() {
   const { cartQuantity } = useCart()
+
   return (
     <HeaderContainer>
       <NavLink to="/">
-        <img src="../src/assets/logo.svg" alt="Logo-marca" />
+        <img src={Logo} alt="Logo-marca" />
       </NavLink>
+
       <ActionsContainer>
         <Text>
           <MapPin size={24} weight="fill" color="#8047F8" />

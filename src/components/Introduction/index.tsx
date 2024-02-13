@@ -11,6 +11,8 @@ import {
   ContainerSecondIcons,
 } from './styles'
 
+import CoffeeImg from '../../assets/coffee-logo.svg'
+
 export function Introduction() {
   return (
     <Container>
@@ -46,12 +48,7 @@ export function Introduction() {
       </ContainerInfo>
 
       <ImgContainer>
-        <img
-          src="../src/assets/coffee-logo.svg"
-          alt="imagem de café"
-          height={360}
-          width={460}
-        />
+        <img src={CoffeeImg} alt="imagem de café" height={360} width={460} />
       </ImgContainer>
     </Container>
   )

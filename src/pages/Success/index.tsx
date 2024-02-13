@@ -13,6 +13,8 @@ import {
   Text,
 } from './styles'
 
+import Illustration from '../../assets/Illustration.svg'
+
 interface LocationType {
   state: OrderData
 }
@@ -77,7 +79,7 @@ export function Success() {
           </IconsContainer>
         </MainContainer>
       </div>
-      <img src="../src/assets/Illustration.svg" alt="" />
+      <img src={Illustration} alt="" />
     </Container>
   )
 }

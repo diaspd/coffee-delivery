@@ -6,7 +6,7 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
 
-  margin: 5rem 2rem 1rem 2rem;
+  margin: 5rem 0;
   max-width: 17rem;
   height: 20rem;
   border-radius: 6px 36px 6px 36px;
@@ -80,7 +80,7 @@ export const ShoppingButton = styled.button`
   border-radius: 8px;
   color: ${(props) => props.theme.white};
   background-color: ${(props) => props.theme['purple-700']};
-  transition: 1.5s;
+  transition: 0.5s;
 
   :hover {
     background-color: ${(props) => props.theme['purple-500']};
