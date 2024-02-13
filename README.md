@@ -2,6 +2,8 @@
   <h1> <img alt="logo image" title="image" src="./src/assets/logo.svg" width="20%" /> </h1>
 </div> 
 
+<h2 align="center">Link to site online: <a href="https://coffee-delivery-diaspd.vercel.app" target="_blank">Coffe Delivery</a> </h2>
+
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
